@@ -6,6 +6,7 @@ Composer package has been created for throattling.
 Steps For Execution
 
 1. Clone the repo
-2. composer install
-3. composer dump-autoload 
-3. php artisan serve
+2. git checkout master
+3. composer install
+4. composer dump-autoload 
+5. php artisan serve

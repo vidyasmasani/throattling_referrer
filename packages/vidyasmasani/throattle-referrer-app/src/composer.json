@@ -1,0 +1,12 @@
+{
+    "name": "vidyasm/throattle-referrer-app",
+    "description": "Throattle Referrer",
+    "type": "project",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Vidyasm\\ThroattleReferrerApp\\": "src/"
+        }
+    },
+    "require": {}
+}

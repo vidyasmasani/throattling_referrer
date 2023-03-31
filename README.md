@@ -7,6 +7,8 @@ Steps For Execution
 
 1. Clone the repo
 2. git checkout master
-3. composer install
-4. composer dump-autoload 
-5. php artisan serve
+3. Create .env file from .env.example
+4. php artisan key:generate
+5. composer install
+6. composer dump-autoload 
+7. php artisan serve
